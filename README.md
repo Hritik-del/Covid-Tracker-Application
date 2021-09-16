@@ -17,6 +17,23 @@ The first screen displayed when the app is launched, is the welcome page screen 
 The SearchView in the action menu is implemented. Which is used for searching the countries for their country specific covid data.
 
 <img src="https://user-images.githubusercontent.com/74361880/129218663-31940075-0cf3-4de9-980d-4de10e98fb90.jpg" width="40%" />
+
+### Displaying Results
+
+Once the search is entered by the user, the welcome screen if active is replaced with a list of the countries mathched with the entered text to display the results.
+
 <img src="https://user-images.githubusercontent.com/74361880/129218675-ca3db2f5-ecaa-4a98-a7cf-dcd6c2389651.jpg" width="40%" />
+
+### The Details Page
+
+Clicking on an item in the List Tab View or the List View, opens up the Details page. This displays additional information such as 
+* Cases
+* Today Cases
+* Deaths
+* Today Deaths
+* Recovered 
+* Active
+* Critical
+
 <img src="https://user-images.githubusercontent.com/74361880/129218680-1560b681-be23-417b-88db-44dd3f3a2826.jpg" width="40%" />
 
